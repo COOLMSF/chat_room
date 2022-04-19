@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "client.h": "c",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "server.h": "c"
+    }
+}
